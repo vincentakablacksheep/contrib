@@ -4,7 +4,7 @@
 
 tous : open-sources ;
 distribuables : yes ;
-licence : copyleft ;
+licence : WTFPL - Do What The Fuck You Want To Public License;
 
 }
 
